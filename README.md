@@ -76,9 +76,11 @@ I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for Fiv
 
 **Specialties**
 
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-F4F5F7?style=for-the-badge)
 ![QA Testing](https://img.shields.io/badge/QA_Testing-F4F5F7?style=for-the-badge&logo=testinglibrary&logoColor=0B0C0E)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-F4F5F7?style=for-the-badge&logo=ghidra&logoColor=0B0C0E)
 ![Security](https://img.shields.io/badge/Security-F4F5F7?style=for-the-badge&logo=tryhackme&logoColor=0B0C0E)
-![Anticheat](https://img.shields.io/badge/Anti--Cheat-F4F5F7?style=for-the-badge&logo=shieldsdotio&logoColor=0B0C0E)
+![API Design](https://img.shields.io/badge/API_Design-F4F5F7?style=for-the-badge)
 
 <br/>
 
