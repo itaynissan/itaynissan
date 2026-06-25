@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c0e&height=200&section=header&text=Itay%20Nissan&fontColor=f4f5f7&fontSize=60&fontAlignY=38&desc=Full-stack%20developer&descAlignY=60&descSize=18&descColor=8b9098" width="100%" alt="Itay Nissan"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c0e&height=200&section=header&text=Itay%20Nissan&fontColor=f4f5f7&fontSize=60&fontAlignY=38&desc=Backend%20%26%20security%20developer&descAlignY=60&descSize=18&descColor=8b9098" width="100%" alt="Itay Nissan"/>
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 <!-- About -->
 ### About me
 
-Hey, I'm Itay Nissan, a 17-year-old full-stack developer with over 6 years of coding behind me.
+Hey, I'm Itay Nissan, a 17-year-old developer with over 6 years of coding behind me.
 
-I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for FiveM servers. I think outside the box and I go after the problems most people avoid or are scared to touch, like catching cheats that are built to stay hidden. I've been writing code since before most of my classmates knew what a terminal was.
+I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for FiveM servers. My focus is detecting cheats that are built to stay hidden, the kind that evade most detection methods.
 
 <br/>
 
@@ -28,12 +28,10 @@ I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for Fiv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4F5F7?style=for-the-badge&logo=javascript&logoColor=0B0C0E)
 ![Lua](https://img.shields.io/badge/Lua-F4F5F7?style=for-the-badge&logo=lua&logoColor=0B0C0E)
 ![Rust](https://img.shields.io/badge/Rust-F4F5F7?style=for-the-badge&logo=rust&logoColor=0B0C0E)
-![Go](https://img.shields.io/badge/Go-F4F5F7?style=for-the-badge&logo=go&logoColor=0B0C0E)
 ![C++](https://img.shields.io/badge/C++-F4F5F7?style=for-the-badge&logo=cplusplus&logoColor=0B0C0E)
 ![C#](https://img.shields.io/badge/C%23-F4F5F7?style=for-the-badge&logo=csharp&logoColor=0B0C0E)
 ![C](https://img.shields.io/badge/C-F4F5F7?style=for-the-badge&logo=c&logoColor=0B0C0E)
 ![PHP](https://img.shields.io/badge/PHP-F4F5F7?style=for-the-badge&logo=php&logoColor=0B0C0E)
-![Python](https://img.shields.io/badge/Python-F4F5F7?style=for-the-badge&logo=python&logoColor=0B0C0E)
 ![SQL](https://img.shields.io/badge/SQL-F4F5F7?style=for-the-badge&logo=mysql&logoColor=0B0C0E)
 ![Bash](https://img.shields.io/badge/Bash-F4F5F7?style=for-the-badge&logo=gnubash&logoColor=0B0C0E)
 
@@ -59,7 +57,6 @@ I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for Fiv
 ![SQLite](https://img.shields.io/badge/SQLite-16181C?style=for-the-badge&logo=sqlite&logoColor=F4F5F7)
 ![Prisma](https://img.shields.io/badge/Prisma-16181C?style=for-the-badge&logo=prisma&logoColor=F4F5F7)
 ![Supabase](https://img.shields.io/badge/Supabase-16181C?style=for-the-badge&logo=supabase&logoColor=F4F5F7)
-![Firebase](https://img.shields.io/badge/Firebase-16181C?style=for-the-badge&logo=firebase&logoColor=F4F5F7)
 
 **Tools & Platforms**
 
@@ -76,9 +73,8 @@ I make and maintain [Raven Anticheat](https://ravenac.net), an anticheat for Fiv
 
 **Specialties**
 
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-F4F5F7?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend_Development-F4F5F7?style=for-the-badge)
 ![QA Testing](https://img.shields.io/badge/QA_Testing-F4F5F7?style=for-the-badge&logo=testinglibrary&logoColor=0B0C0E)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-F4F5F7?style=for-the-badge&logo=ghidra&logoColor=0B0C0E)
 ![Security](https://img.shields.io/badge/Security-F4F5F7?style=for-the-badge&logo=tryhackme&logoColor=0B0C0E)
 ![API Design](https://img.shields.io/badge/API_Design-F4F5F7?style=for-the-badge)
 
