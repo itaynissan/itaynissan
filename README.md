@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c0e&height=200&section=header&text=Itay%20Nissan&fontColor=f4f5f7&fontSize=60&fontAlignY=38&desc=Backend%20%26%20security%20developer&descAlignY=60&descSize=18&descColor=8b9098" width="100%" alt="Itay Nissan"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c0e&height=200&section=header&text=Itay%20Nissan&fontColor=f4f5f7&fontSize=60&fontAlignY=38&desc=Backend%20security%20developer&descAlignY=60&descSize=18&descColor=8b9098" width="100%" alt="Itay Nissan"/>
 </p>
 
 <p align="center">
